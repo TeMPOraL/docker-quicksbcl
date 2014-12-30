@@ -3,4 +3,6 @@
 A Docker script for installing SBCL w/ Quicklisp.
 Using ubuntu:trusty.
 
+SBCL version: sbcl-1.2.6-x86-64.
+
 Based on https://github.com/davazp/docker-sbcl & https://github.com/davazp/docker-quicksbcl.
